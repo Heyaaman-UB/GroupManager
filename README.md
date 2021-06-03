@@ -23,3 +23,5 @@ Report your problem along with your name to [this person](https://t.me/xditya)
 This repo is just a custom fork of [HarukaAya](https://gitlab.com/HarukaNetwork/OSS/HarukaAya)
 
 Thanks to the [real developer](https://t.me/RealAkito)!
+
+https://heroku.com/deploy?template=https://github.com/majid-nex/GroupManager.git
