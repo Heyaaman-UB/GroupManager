@@ -23,7 +23,7 @@ from haruka.modules.connection import connected
 PM_START = """Hello {}, my name is {}!
 
 I am group managing bot
-Officially made by majid. 
+Officially made by @heyaaman.(https://telegra.ph/file/cbd8d600f3d5ac62a2b8f.jpg)
 """
 
 
